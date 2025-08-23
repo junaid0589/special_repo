@@ -1,7 +1,14 @@
-Hi , My name is Junaid Ahmed Khan, and I’m currently in Third-year B.Tech student specializing in computer science. 
-I have a solid foundation in programming languages like Java, Python, and C, along with experience in web development using HTML, CSS, JavaScript, Django, and Node.js.. Known for my quick learning and adaptability.
-I’m passionate about AI-driven solutions and aspire to work on projects that create a positive social impact. 
-I’m always eager to collaborate, learn, and contribute to meaningful innovations.
+Hi , My name is Junaid Ahmed Khan
+currently learning :
+![365 Data Science Badge](https://img.shields.io/badge/365%20Data%20Science-000C1F?logo=365datascience&logoColor=fff&style=for-the-badge)
+![DAS](https://img.shields.io/badge/DAS-Data%20Analytics-0B5FFF?style=for-the-badge&logoColor=fff)
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-FF6A00?style=for-the-badge&logoColor=fff)
+
+
+skilled in :
+
+
+
 Conatct with me :
 Email: jahmedkhan_cse230589@mgit.ac.in
 Linkdin:https://www.linkedin.com/in/junaid-khan-7554801b3/
