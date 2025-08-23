@@ -10,6 +10,10 @@ skilled in :
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
 
 
+GitHub STATA:
+![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=junaid0589&show_icons=true&theme=radical)
+
+
 Conatct with me :
 Email: jahmedkhan_cse230589@mgit.ac.in
 Linkdin:https://www.linkedin.com/in/junaid-khan-7554801b3/
