@@ -16,7 +16,7 @@ GitHub STATA:
 
 
 
-https://github-readme-stats.vercel.app/api?username=junaid0589
+https://github-readme-stats.vercel.app/api?username=junaid0589&show_icons=true&theme=dark
 
 
 
