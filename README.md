@@ -14,6 +14,12 @@ GitHub STATA:
 ![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=junaid0589&show_icons=true&theme=radical)
 
 
+
+
+https://github-readme-stats.vercel.app/api?username=junaid0589
+
+
+
 Conatct with me :
 Email: jahmedkhan_cse230589@mgit.ac.in
 Linkdin:https://www.linkedin.com/in/junaid-khan-7554801b3/
